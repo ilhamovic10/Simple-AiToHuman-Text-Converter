@@ -1,0 +1,5 @@
+{
+  "name": "Simple AI to Human Text Converter",
+  "description": "An interactive tool that transforms AI-generated text into natural, human-like content using the Gemini API. Features a minimalist design with smooth transitions and a sleek glass-style interface.",
+  "requestFramePermissions": []
+}
